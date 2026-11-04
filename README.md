@@ -1,6 +1,6 @@
-# OOD / Programmeren – hulprepo diagnostische toets
+# OOD / Programmeren
 
-Uitwerking van de testcasus **DeelMobiel** plus spiekbriefjes voor de toets.
+Uitwerking van de testcasus **DeelMobiel**
 Doel: de toets afleggen, geen perfectie.
 
 > Let op: tijdens de toets mag je **geen AI** gebruiken, wel je eigen repo en bronnen op het internet.
